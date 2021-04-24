@@ -6,8 +6,8 @@ require "omniauth/doorkept/version"
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-doorkept"
   spec.version       = Omniauth::Doorkept::VERSION
-  spec.authors       = ["Chris Oliver"]
-  spec.email         = ["excid3@gmail.com"]
+  spec.authors       = ["Cyrus Gichuki"]
+  spec.email         = ["cyrus@0101solutions.consulting"]
 
   spec.summary       = %q{}
   spec.description   = %q{}
